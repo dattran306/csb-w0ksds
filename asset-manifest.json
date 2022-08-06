@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dattran306.github.io/csb-w0ksds/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dattran306.github.io/csb-w0ksds/static/js/main.8d021f74.chunk.js",
+    "main.js.map": "https://dattran306.github.io/csb-w0ksds/static/js/main.8d021f74.chunk.js.map",
+    "runtime-main.js": "https://dattran306.github.io/csb-w0ksds/static/js/runtime-main.36af4bca.js",
+    "runtime-main.js.map": "https://dattran306.github.io/csb-w0ksds/static/js/runtime-main.36af4bca.js.map",
+    "static/js/2.3b096fcb.chunk.js": "https://dattran306.github.io/csb-w0ksds/static/js/2.3b096fcb.chunk.js",
+    "static/js/2.3b096fcb.chunk.js.map": "https://dattran306.github.io/csb-w0ksds/static/js/2.3b096fcb.chunk.js.map",
+    "index.html": "https://dattran306.github.io/csb-w0ksds/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dattran306.github.io/csb-w0ksds/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.3b096fcb.chunk.js.LICENSE.txt": "https://dattran306.github.io/csb-w0ksds/static/js/2.3b096fcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36af4bca.js",
+    "static/js/2.3b096fcb.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8d021f74.chunk.js"
+  ]
+}
